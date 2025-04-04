@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @ArcticTexan
-- 👀 I’m interested in Prime Numbers, Cryptography, and UIs
-- 🌱 I’m currently learning Python, UIs, and C++
-- 💞️ I’m looking to collaborate on nothing for now, but feel free to reach out regardless
+- 👋 Hi, I’m @ArcticTexan (Jade)
+- 👀 I’m interested in Mathematics and App Development
+- 🌱 I’m currently learning Front End Development, SQL, and honing my skills for large projects using OOP
+- 💞️ I’m looking to collaborate on any open source project that utilizes Python, Java, or C++. Any experience I get will make me a better programmer.
+- 🎓 I’ve just graduated with a bachelors degree in Applied Math
 - 📫 How to reach me Email: jwirz144@gmail.com or Discord: @arctictexan
 
 <!---
